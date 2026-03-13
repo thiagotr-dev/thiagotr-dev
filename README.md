@@ -20,6 +20,26 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
             src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/thiagotr-dev?tab=followers">
+        <img 
+            alt="Whatsapp"
+            title="Meu Whatsapp"
+            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=brightgreen&labelColor=brightgreen&style=for-the-badge&logo=whatsapp&label=Whatsapp&logoColor=white"
+        />
+    <a href="https://github.com/thiagotr-dev?tab=followers">
+        <img 
+            alt="Linkedin"
+            title="Meu Linkedin"
+            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=blue&labelColor=blue&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/thiagotr-dev?tab=followers">
+        <img 
+            alt="Gmail"
+            title="Meu Gmail"
+            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=lightslategray&labelColor=lightslategray&style=for-the-badge&logo=gmail&label=Gmail&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
