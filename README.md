@@ -4,7 +4,7 @@
 
 Olá, prazer!
 
-Me chamo Thiago, tenho 19 anos e sou estudante de Engenharia da Computação na Universidade Mackenzie, em São Paulo. Possuo interesse nas áreas de programação, tecnologia e desenvolvimento de software e hardware. Busco utilizar este espaço para compartilhar projetos e estudos que fazem parte da minha jornada de aprendizado e evolução no domínio da tecnologia. 🚀
+Me chamo Thiago, tenho 19 anos e sou estudante de Engenharia da Computação na Universidade Mackenzie, em São Paulo. Possuo interesse nas áreas de programação, tecnologia e desenvolvimento de software e hardware. Busco utilizar este espaço para compartilhar projetos e estudos que fazem parte da minha jornada de aprendizado no domínio da tecnologia. 🚀
 
 <a href="https://github.com/thiagotr-dev?tab=repositories&sort=stargazers">
         <img 
