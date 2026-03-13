@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Sales
+# 💻 Thiago Sales
 
 **`Desenvolvedor ...`**
 
