@@ -28,7 +28,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
 
 ### 💻 Linguagens e Tecnologias
 
-<img 
+<img
     align="left" 
     alt="Git" 
     title="Git"
@@ -36,7 +36,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -44,7 +44,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="CSS" 
     title="CSS"
@@ -52,7 +52,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -60,7 +60,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
@@ -68,7 +68,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="Python" 
     title="Python"
@@ -76,7 +76,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="SQL" 
     title="SQL"
@@ -84,7 +84,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="React"
     title="React" 
@@ -92,7 +92,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="Next.js" 
     title="Next.js"
@@ -100,13 +100,13 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
-<img 
+<img
     align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=FFFFFF"
 />
 
 <br/>
