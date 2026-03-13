@@ -1,9 +1,10 @@
-# 💻 Thiago Sales
+# 🧑🏻‍💻 Thiago Sales
 
 **`Desenvolvedor ...`**
 
-Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Olá, prazer!
 
+Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atualmente, estou cursando Engenharia da Computação no Mackenzie em São Paulo.
 
 <a href="https://github.com/thiagotr-dev?tab=repositories&sort=stargazers">
         <img 
@@ -23,7 +24,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo. Concluí
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
