@@ -9,7 +9,7 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo. Concluí
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=55960c&style=for-the-badge&labelColor=FFA500&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=FFA500c&style=for-the-badge&labelColor=FFA500&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/thiagotr-dev?tab=followers">
