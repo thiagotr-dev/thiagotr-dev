@@ -10,35 +10,17 @@ Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atual
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600&label=Estrelas"
-        />
+            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600&label=Estrelas" target="_blank"></a>
     </a>
     <a href="https://github.com/thiagotr-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"></a>
     </a>
-    <a href="https://github.com/thiagotr-dev?tab=followers">
-        <img 
-            alt="Whatsapp"
-            title="Meu Whatsapp"
-            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=brightgreen&labelColor=brightgreen&style=for-the-badge&logo=whatsapp&label=Whatsapp&logoColor=white"
-        />
-    <a href="https://github.com/thiagotr-dev?tab=followers">
-        <img 
-            alt="Linkedin"
-            title="Meu Linkedin"
-            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=blue&labelColor=blue&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/thiagotr-dev?tab=followers">
-        <img 
-            alt="Gmail"
-            title="Meu Gmail"
-            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=lightslategray&labelColor=lightslategray&style=for-the-badge&logo=gmail&label=Gmail&logoColor=white"
-        />
+    <a href="https://wa.me/5511947452140" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/thiago-sales-terra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "mailto:thiagosalestr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-lightslategray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </a>
 </p>
 
