@@ -4,7 +4,7 @@
 
 Olá, prazer!
 
-Me chamo Thiago Sales Terra, tenho 19 anos e sou natural de São Paulo-SP. Atualmente, estou cursando Engenharia da Computação no Mackenzie em São Paulo.
+Me chamo Thiago, tenho 19 anos e sou estudante de Engenharia da Computação na Universidade Mackenzie, em São Paulo. Possuo interesse nas áreas de programação, tecnologia e desenvolvimento de software, e utilizo este espaço para compartilhar projetos, estudos e experiências que fazem parte da minha jornada de aprendizado e evolução no domínio da tecnologia. 🚀
 
 <a href="https://github.com/thiagotr-dev?tab=repositories&sort=stargazers">
         <img 
