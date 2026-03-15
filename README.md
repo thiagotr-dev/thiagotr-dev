@@ -10,13 +10,13 @@ Me chamo Thiago, tenho 19 anos e sou estudante de Engenharia da Computação na 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600&label=Estrelas" target="_blank"></a>
+            src="https://custom-icon-badges.demolab.com/github/stars/thiagotr-dev?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"></a>
     </a>
     <a href="https://github.com/thiagotr-dev?tab=followers">
-        <img 
+        <img
             alt="Seguidores" 
-            title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"></a>
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/thiagotr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
     </a>
     <a href="https://wa.me/5511947452140" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/thiago-sales-terra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
