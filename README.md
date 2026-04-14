@@ -12,7 +12,7 @@ My name is Thiago, I am 19 years old and I major in Computer Engineering at Mack
 
 <h3>
   <img height="20" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>
-  &nbsp;My Stats
+  &nbsp;To Follow
 </h3>
 
 <a href="https://github.com/thiagotr-dev?tab=repositories&sort=stargazers">
@@ -128,7 +128,7 @@ My name is Thiago, I am 19 years old and I major in Computer Engineering at Mack
 
 <h3>
   <img height="20" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>
-  &nbsp;Statistics
+  &nbsp;My Stats
 </h3>
 
 <p>
