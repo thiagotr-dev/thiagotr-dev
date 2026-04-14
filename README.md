@@ -4,7 +4,7 @@
 
 ### About Me
 
-**`Desenvolvedor ...`**
+**`Developer ...`**
 
 My name is Thiago, I am 19 years old and I major in Computer Engineering at Mackenzie University (São Paulo). I'm interested in programming, automation and software/hardware development. This environment works to share projects and studies that are part of my learning journey in the field of technology. 🚀
 
