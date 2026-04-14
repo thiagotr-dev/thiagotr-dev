@@ -1,4 +1,8 @@
-# 🧑🏻‍💻 Thiago Terra
+## 🧑🏻‍💻 Hi, I'm Thiago Terra
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Backend+Software+Engineer;Automation+Systems+%7C+API+Integrations;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;Automating+Workflows+%26+Integrating+Systems)](https://git.io/typing-svg)
+
+### About Me
 
 **`Desenvolvedor ...`**
 
