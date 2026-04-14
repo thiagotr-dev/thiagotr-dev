@@ -6,7 +6,7 @@
 
 **`Developer ...`**
 
-My name is Thiago, I am 19 years old and I major in Computer Engineering at Mackenzie University (São Paulo). I'm interested in programming, automation and software/hardware development. This environment works to share projects and studies that are part of my learning journey in the field of technology. 🚀
+My name is Thiago, I am 19 years old and I major in Computer Engineering at Mackenzie University (São Paulo). I'm interested in programming, automation and software/hardware development. This environment works to share projects and studies that are part of my learning journey in the field of technology.
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
