@@ -10,6 +10,8 @@ Olá, prazer!
 
 Me chamo Thiago, tenho 19 anos e sou estudante de Engenharia da Computação na Universidade Mackenzie, em São Paulo. Possuo interesse nas áreas de programação, tecnologia e desenvolvimento de software e hardware. Busco utilizar este espaço com o objetivo de compartilhar projetos e estudos que fazem parte da minha jornada de aprendizado no domínio da tecnologia. 🚀
 
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+
 <a href="https://github.com/thiagotr-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
