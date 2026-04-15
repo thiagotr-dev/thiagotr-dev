@@ -31,8 +31,6 @@ My name is Thiago, I am 19 years old and I major in Computer Engineering at Mack
     </a>
 </p>
 
----
-
 <h3>
   <img height="20" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>
   &nbsp;Academic & Professional Stack
